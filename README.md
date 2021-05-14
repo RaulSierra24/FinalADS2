@@ -5,3 +5,6 @@
 3. [feature](nueva funcion del sistema)
 4. [release](específica para preparar publicaciones hace posible que un equipo perfeccione la publicación actual)
 5. [hotfix](reparar rápidamente las publicaciones de producción)
+
+# Tecnologia
+Asp.Net Core
